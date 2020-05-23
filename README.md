@@ -1,2 +1,2 @@
-# YH_QG_MS
-By: Yujie He, Qinyue Gu, and Maoguo Shi.
+# CS230 Project: Trash Classification
+Member: Yujie He, Qinyue Gu, and Maoguo Shi.
